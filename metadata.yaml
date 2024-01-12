@@ -1,0 +1,29 @@
+_repo: Tullikavaltajia_72652
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kataja, Väinö
+    alias: Kataja, Vaino
+    birthdate: 1867
+    deathdate: 1914
+    gutenberg_agent_id: '5390'
+    url: http://www.gutenberg.org/2009/agents/5390
+    wikipedia: https://fi.wikipedia.org/wiki/V%C3%A4in%C3%B6_Kataja
+description: ''
+gutenberg_issued: '2024-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72652'
+language: fi
+pgterms:marc905: 20240104094916kataja
+pgterms:marc906: '1911'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tullikavaltajia
+url: http://www.gutenberg.org/ebooks/72652
