@@ -1,5 +1,8 @@
 _repo: Tullikavaltajia_72652
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kataja, Väinö
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5390
     wikipedia: https://fi.wikipedia.org/wiki/V%C3%A4in%C3%B6_Kataja
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72652#Tullikavaltajia
 gutenberg_issued: '2024-01-07'
 gutenberg_type: Text
 identifiers:
